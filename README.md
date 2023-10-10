@@ -18,13 +18,15 @@ My path is a tapestry woven with code, creativity, and a relentless desire to le
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xlg123&label=Profile%20views&color=0e75b6&style=flat" alt="xlg123" /> </p>
 
-- 🔭 I’m currently working on [JMAX](https://jmax.onrender.com/)
+- 🔭 I’m currently working on [Yep!](https://yep-ech2.onrender.com/)
 
 - 🌱 I’m currently learning **React and JavaScript**
 
 - 👯 I’m looking to collaborate on [Hey Wake Up!](https://xlg123.github.io/Hey-Wake-Up-/)
 
 - 🤝 I’m looking for help with [Yep!](https://yep-ech2.onrender.com/)
+
+- 💚 Welcome everyone to take a look at [JMAX](https://jmax.onrender.com/)
 
 - 👨‍💻 All of my projects are available at [https://xlg123.github.io](https://xlg123.github.io/XLG/)
 
