@@ -24,8 +24,6 @@ My path is a tapestry woven with code, creativity, and a relentless desire to le
 
 - 👯 I’m looking to collaborate on [Hey Wake Up!](https://xlg123.github.io/Hey-Wake-Up-/)
 
-- 🤝 I’m looking for help with [Yep!](https://yep-ech2.onrender.com/)
-
 - 💚 Welcome everyone to take a look at [JMAX](https://jmax.onrender.com/)
 
 - 👨‍💻 All of my projects are available at [https://xlg123.github.io](https://xlg123.github.io/XLG/)
