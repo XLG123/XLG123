@@ -18,11 +18,13 @@ My path is a tapestry woven with code, creativity, and a relentless desire to le
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xlg123&label=Profile%20views&color=0e75b6&style=flat" alt="xlg123" /> </p>
 
-- 🔭 I’m currently working on [Yep!](https://yep-ech2.onrender.com/)
+- 🔭 I’m currently working on [Acorn House](https://xlg123.github.io/acorn-house/)
 
 - 🌱 I’m currently learning **React and JavaScript**
 
 - 👯 I’m looking to collaborate on [Hey Wake Up!](https://xlg123.github.io/Hey-Wake-Up-/)
+
+- 🔊 Feel free to check out [Yep!](https://yep-ech2.onrender.com/)
 
 - 💚 Welcome everyone to take a look at [JMAX](https://jmax.onrender.com/)
 
